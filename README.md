@@ -2,9 +2,8 @@
 I'm a student!
 
 
-## 🌐 Socials:
-[![LinkedIn]
-https://www.linkedin.com/in/ullas-madival-13ab65334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+## 🌐 Socials: 
+Linkedin:- https://www.linkedin.com/in/ullas-madival-13ab65334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
