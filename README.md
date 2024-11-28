@@ -3,7 +3,8 @@ I'm a student!
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/UllasMadival) 
+[![LinkedIn]
+https://www.linkedin.com/in/ullas-madival-13ab65334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
