@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm a student!
+I'm a student! 
+BE | Information Science and Engineering | EWIT-2027🎓
+
+Aspiring s/w developer | HTML | CSS | Python | C | Javascript | Git & GitHub | Open-source | Tech enthusiastic
 
 
 ## 🌐 Socials: 
