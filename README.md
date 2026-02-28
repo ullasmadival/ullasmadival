@@ -7,10 +7,7 @@ Aspiring s/w developer | HTML | CSS | Python | C | Javascript | Git & GitHub | O
 
 ## 🌐 Socials: 
 Linkedin:- 
-https://www.linkedin.com/in/ullas-madival-13ab65334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-X(Twitter):-
-https://x.com/ullas_madi23800?t=MkSOc2kBaTImLH51BTezpg&s=09
+(https://www.linkedin.com/in/ullas-madival-13ab65334/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
